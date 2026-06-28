@@ -1,0 +1,6 @@
+{
+  "name": "Trecko",
+  "description": "Trecko: A premium project collaboration workspace and sprint platform with custom skins, live Google account sync, and integrated development tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
